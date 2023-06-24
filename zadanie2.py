@@ -68,5 +68,3 @@ items = ['audi', 'subaru', 'honda', 'opel']
 
 print('audi' not in items)
 print('porshe' not in items)
-
-#koniec zadania
