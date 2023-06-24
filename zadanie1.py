@@ -30,10 +30,6 @@ car = 'Subaru'
 print("Is car.upper() == 'SUBARU'? I predict True.")
 print(car.upper() == 'SUBARU')
 
-car = 'SUBARU'
-print("Is car.lower() == 'SUBARU'? I predict False.")
-print(car.lower() == 'SUBARU')
-
 car = 'volvo'
 print("Is car.title() == 'Volvo'? I predict True.")
 print(car.title() == 'Volvo')
